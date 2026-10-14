@@ -16,6 +16,6 @@
 ## Ссылка на проект:
 [СХЕМА И ПЕЧАТНАЯ ПЛАТА:](https://easyeda.com/golinskiy.konstantin/esp_led_mqtt_v2-0/)
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
 
 
